@@ -5,7 +5,7 @@
 
 **[개발환경 세팅]** '총 로그인 수 조회 API서비스'를 직접 구축하기 위한 개발환경 세팅
 
-**[week1 실습 노트] [`note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/setting/week1_note.md)**
+**[week1 실습 노트] [`week1_note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/setting/week1_note.md)**
 
 **🔛 진척도 100%**
 
@@ -36,3 +36,30 @@
     - 최종 업무 완료 및 보고
         - due : 7월 3일
         - 검토자 : 리드멘토님
+
+## Week 2️⃣ (업무보고)
+**[API 초안 작성]** FE 개발자와의 협업을 위한 SW 활용 현황 통계 API 가이드 초안 작성
+
+**[week2 실습 노트] [`week2_note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/setting/week2_note.md)**
+
+**🔛 진척도 30%**
+
+1. 관련 내용 학습
+   - REST, RESTful, REST API (완료)
+   - HTTP 통신 기본 (완료)
+   - 브라우저 URL 입력, 서버 요청, 서버 응답의 일련과정 (완료)
+   - [정리된 개인 기술 블로그](https://velog.io/@hongday/BE입문-REST-API와-HTTP)
+
+2. 공공데이터 API 문서 및 제공된 인터페이스 가이드 숙지 (시작전)
+   
+
+3. 인터페이스 (API) 가이드 문서 초안 작성 (시작전)
+
+
+4. 기타
+   - 중간 업무 보고
+      - due : 7월 8일
+      - 검토자 : 리드멘토님
+   - 최종 업무 완료 및 보고
+      - due : 7월 10일
+      - 검토자 : 리드멘토님
