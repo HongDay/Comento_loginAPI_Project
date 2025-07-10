@@ -40,7 +40,7 @@
 ## Week 2️⃣ (업무보고)
 **[API 초안 작성]** FE 개발자와의 협업을 위한 SW 활용 현황 통계 API 가이드 초안 작성
 
-**[week2 실습 노트] [`week2_note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/setting/week2_note.md)**
+**[week2 실습 노트] [`week2_note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/API_first/week2_note.md)**
 
 **🔛 진척도 30%**
 
