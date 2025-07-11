@@ -3,7 +3,7 @@
 
 
 ### 업무기록 노션 정리 페이지
-[**2주차. API문서 초안 작성 - 중간업무보고**](https://www.notion.so/2-22a7d817ab0a80928752c192b7e8f0b2?source=copy_link)
+[**2주차. API문서 초안 작성 - 최종업무보고**](https://www.notion.so/2-1-22c7d817ab0a804e8befee20e27768ff?source=copy_link)
 
 [**정리된 개인 기술 블로그1**](https://velog.io/@hongday/BE입문-REST-API와-HTTP)
 
