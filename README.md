@@ -42,7 +42,9 @@
 
 **[week2 실습 노트] [`week2_note.md`](https://github.com/HongDay/Comento_loginAPI_Project/blob/API_first/week2_note.md)**
 
-**🔛 진척도 30%**
+**[API 문서 초안]** [`SW 활용 현황 API (초안)`](https://github.com/HongDay/Comento_loginAPI_Project/blob/API_first/SW_API_draft.pdf)
+
+**🔛 진척도 100%**
 
 1. 관련 내용 학습
    - REST, RESTful, REST API (완료)
@@ -50,11 +52,20 @@
    - 브라우저 URL 입력, 서버 요청, 서버 응답의 일련과정 (완료)
    - [정리된 개인 기술 블로그](https://velog.io/@hongday/BE입문-REST-API와-HTTP)
 
-2. 공공데이터 API 문서 및 제공된 인터페이스 가이드 숙지 (시작전)
-   
+2. 공공데이터 API 문서 및 제공된 인터페이스 가이드 숙지 (완료)
+   - kakaoAPI 관심 키워드 분석
+   - kakaoAPI 방문자데이터
+   - LINE Pay 기술 연동 가이드
+   - 쿠팡 상품 승인 요청
+   - 빗썸 마켓 코드 조회
+   - 한국소비자원 생필품 가격 정보
+   - [정리된 개인 기술 블로그](https://velog.io/@hongday/BE-입문-오픈소스-API-명세서-둘러보기)
 
-3. 인터페이스 (API) 가이드 문서 초안 작성 (시작전)
-
+3. 인터페이스 (API) 가이드 문서 초안 작성 (완료)
+   - 접속자 수 (+ 부서별)
+   - 로그인 요청 수
+   - 게시글 작성 수
+   - 로그인/로그아웃 정보 전달
 
 4. 기타
    - 중간 업무 보고
